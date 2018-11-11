@@ -1,0 +1,11 @@
+# ignore the results of running code 'results/'
+model/
+
+*.pyc
+
+*.hdf5
+*.ipynb_checkpoints
+*.p
+*.h5
+*.HDF5
+__pycache__
